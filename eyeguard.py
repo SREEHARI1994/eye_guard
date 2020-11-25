@@ -15,8 +15,9 @@ def run_threaded(job_func):
 
 if __name__=="__main__":
 	playsound('E:/files/stdy/Useful Scripts/eye_guard/greeting.mp3')
-	schedule.every(10).minutes.do(run_threaded,sound_alarm)
-	schedule.every(10*60+20).seconds.do(run_threaded,sound_resume_work_alert)
+	schedule.every(4).minutes.do(run_threaded,sound_alarm)
+	time.sleep(20)
+	schedule.every(4).minutes.do(run_threaded,sound_resume_work_alert)
 	
 	while True:
 		schedule.run_pending()
