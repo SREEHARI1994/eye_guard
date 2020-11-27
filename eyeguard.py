@@ -20,7 +20,7 @@ def run_threaded(job_func):
     job_thread.start()
 
 if __name__=="__main__":
-	playsound('E:/files/stdy/Useful Scripts/eye_guard/greeting.mp3') #path to your fil
+	playsound('E:/files/stdy/Useful Scripts/eye_guard/greeting.mp3') #path to your file
 	schedule.every(minutes).minutes.do(run_threaded,sound_alarm)
 	time.sleep(20)
 	schedule.every(minutes).minutes.do(run_threaded,sound_resume_work_alert)
