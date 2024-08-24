@@ -28,15 +28,15 @@ myobj2 = gTTS(text=mytext2, lang=language, slow=False)
 
 # Saving the converted audios in  mp3 files 
 
-myobj.save("E:/files/stdy/Useful Scripts/alarm.mp3") #give your path
-myobj2.save("E:/files/stdy/Useful Scripts/resume.mp3") 
+myobj.save("alarm.mp3") #give your path
+myobj2.save("resume.mp3") 
 
 #audio played the first time file is executed
 
 mytext3="Don't forget to blink during the breaks"
 myobj3 = gTTS(text=mytext3, lang=language, slow=False) 
 
-myobj3.save("E:/files/stdy/Useful Scripts/greeting.mp3")#your path
+myobj3.save("greeting.mp3")#your path
 
 
 #Please note that everytime you run this script, and use the same names alarm,resume and greeting
