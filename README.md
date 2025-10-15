@@ -6,10 +6,8 @@ While using computers, at least during every twenty minutes, you need to strictl
 
 **Download the app that makes you do this directly from this [GumRoad Link](https://sreehari083.gumroad.com/l/lcbjw)** 
 
-<video width="720" controls>
-    <source src="https://raw.githubusercontent.com/SREEHARI1994/eye_guard/main/readmevideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[![Watch the demo](https://raw.githubusercontent.com/SREEHARI194/eye_guard/main/thumb.png)](https://github.com/SREEHARI1994/eye_guard/raw/main/readmevideo.mp4)
+
 
 Or read on if you want more control over the working of the application.
 
