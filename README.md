@@ -8,7 +8,7 @@ While using computers, at least during every twenty minutes, you need to strictl
 
 <p align ="center">
   <video width="720" controls>
-    <source src="https://github.com/SREEHARI1994/eye_guard/raw/refs/heads/main/readmeVideo.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/SREEHARI1994/eye_guard/main/readmevideo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <br>
