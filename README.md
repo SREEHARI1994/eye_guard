@@ -6,14 +6,11 @@ While using computers, at least during every twenty minutes, you need to strictl
 
 **Download the app that makes you do this directly from this [GumRoad Link](https://sreehari083.gumroad.com/l/lcbjw)** 
 
-<p align ="center">
-  <video width="720" controls>
+<video width="720" controls>
     <source src="https://raw.githubusercontent.com/SREEHARI1994/eye_guard/main/readmevideo.mp4" type="video/mp4">
     Your browser does not support the video tag.
-  </video>
-  <br>
-  <em>🎥 Demo: Watch <strong>EyeGuard</strong> in Action</em>
-</p>
+</video>
+
 Or read on if you want more control over the working of the application.
 
 The rest of this section is also available as a medium article linked [here](https://medium.com/@sreehari.mras/ensure-that-you-will-never-have-to-wear-spectacles-or-contact-lenses-in-your-life-to-cure-your-a9cd3f07207a)
