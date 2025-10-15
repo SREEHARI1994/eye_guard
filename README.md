@@ -1,13 +1,12 @@
 # Ensure that you will never have to wear spectacles or contact lenses in your life to cure your eyesight problem
 
-This title is not click bait or misleading because the technique explained here article do honestly completely eliminate the major cause or reason why people end up having to wear spectacles(glasses) or contact lenses at some point in their lives as a remedy for their newly found eyesight problem.
+This title is not click bait or misleading because the technique explained here do honestly completely eliminate the major cause or reason why people end up having to wear spectacles(glasses) or contact lenses at some point in their lives as a remedy for their newly found eyesight problem.
 
 While using computers, at least during every twenty minutes, you need to strictly take your eyes off the screen and look somwhere at least 20 feet away for atleast 20 sec. 
 
-**Download the app that makes you do this directly from this [GumRoad Link](https://sreehari083.gumroad.com/l/lcbjw)** 
+**Download the app that persuades you to do this, from this [GumRoad Link](https://sreehari083.gumroad.com/l/lcbjw)** 
 
-[![app](thumb.png)](https://sreehari1994.github.io/eye_guard/assets/readmeVideo.mp4)
-Click on the image above to watch the demo video showing start of the app
+[![app](thumb.png)](https://sreehari1994.github.io/eye_guard/assets/readmeVideo.mp4 "Click on the image above to watch the demo video showing start of the app")
 
 
 Or read on if you want more control over the working of the application.
