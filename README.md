@@ -6,7 +6,8 @@ While using computers, at least during every twenty minutes, you need to strictl
 
 **Download the app that makes you do this directly from this [GumRoad Link](https://sreehari083.gumroad.com/l/lcbjw)** 
 
-[![Click on the image to see the demo video showing start of app](thumb.png)](https://github.com/SREEHARI1994/eye_guard/raw/refs/heads/main/readmeVideo.mp4)
+[![app](thumb.png)](https://sreehari1994.github.io/eye_guard/assets/readmeVideo.mp4)
+Click on the image above to watch the demo video showing start of the app
 
 
 Or read on if you want more control over the working of the application.
