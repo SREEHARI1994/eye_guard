@@ -8,6 +8,7 @@ While using computers, at least during every twenty minutes, you need to strictl
 
 [![app](thumb.png)](https://sreehari1994.github.io/eye_guard/assets/readmeVideo.mp4)
 *Click on the image above to watch the demo video showing start of the app*
+
 **App works on any OS be it Windows, Mac or Linux**
 
 
