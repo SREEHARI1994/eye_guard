@@ -6,16 +6,7 @@ While using computers, at least during every twenty minutes, you need to strictl
 
 **Download the app that makes you do this directly from this [GumRoad Link](https://sreehari083.gumroad.com/l/lcbjw)** 
 
-[![App in action](thumb.png)](readmeVideo.mp4)
-
-<p align="center">
-  <video width="720" controls>
-    <source src="https://sreehari1994.github.io/eye_guard/assets/readmeVideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  <em>🎥 Demo: Watch <strong>EyeGuard</strong> in Action</em>
-</p>
+[![Click on the image to see the demo video showing start of app](thumb.png)](https://github.com/SREEHARI1994/eye_guard/raw/refs/heads/main/readmeVideo.mp4)
 
 
 Or read on if you want more control over the working of the application.
